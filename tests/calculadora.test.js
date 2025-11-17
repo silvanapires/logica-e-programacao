@@ -1,5 +1,0 @@
-const { somarDoisNumeros } = required('../src/calculadora');
-
-const resultadoDaSoma = somarDoisNumeros(5,3);
-
-console.log(resultadoDaSoma);
